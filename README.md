@@ -3,6 +3,15 @@
 Aplicação web desenvolvida com **React + TypeScript + Vite** para consumo de API de filmes. Permite explorar, buscar e visualizar detalhes de filmes de forma rápida e moderna.
 
 ---
+## 📸 Prints da Aplicação
+
+![Tela Inicial](src/assets/Print1.png)
+
+![Tela de Pesquisa](src/assets/Print2.png)
+
+![Detalhes](src/assets/Print3.png)
+
+---
 
 ## 🚀 Tecnologias Utilizadas
 
