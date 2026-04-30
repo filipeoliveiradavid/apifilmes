@@ -146,7 +146,12 @@ Este projeto consome uma API externa de filmes. A camada de integração está c
 | `/search/movie` | Busca de filmes por título |
 
 ---
+## 🔗 Acesso à aplicação
 
+A API está disponível online no link abaixo:
+👉 https://apifilmes-web.vercel.app/
+
+---
 ## 🤝 Como Contribuir
 
 1. Faça um fork do projeto
